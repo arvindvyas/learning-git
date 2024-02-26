@@ -1,0 +1,1 @@
+1. You dont do a git init everytime you have to push changes . You will have to remove .git folder in that case.
