@@ -1,0 +1,5 @@
+
+arr =[1,2,3,4,5]
+puts arr.reduce(:+)
+# puts arr.inject(:*)
+#  puts arr.reduce{|sum,element| sum+element}
