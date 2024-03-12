@@ -1,2 +1,2 @@
-My Name is Arvind Vyas# learning-git
-my name is khushi
+Krapi----->>>>>>
+this is my attempt to learn git and the concept of merging branches and handling conflicts
