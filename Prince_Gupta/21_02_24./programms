@@ -1,0 +1,18 @@
+class Parent
+    @@count =0
+     def increase
+        @@count = @@count +1
+     end
+
+      def print
+        puts @@count
+      end
+
+    end
+
+    o1 = Parent.new
+    o1.print
+    o2 = Parent.new
+    o2.increase
+    o2.print
+    o1.print
